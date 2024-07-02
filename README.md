@@ -39,11 +39,10 @@
 
 <br>
 
-<div align=center>
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyojin202406&show_icons=true&theme=ambient_gradient&fo)
-</div>
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyojin202406&show_icons=true&theme=ambient_gradient&fo)
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=username&theme=vue&show_icons=true"/></a>
+</p>
+
 
 ## Contact
 
