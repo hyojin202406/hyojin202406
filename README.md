@@ -13,32 +13,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyojin202406&show_icons=true&theme=ambient_gradient)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyojin202406&show_icons=true&theme=ambient_gradient&fontSize=40)
 
 ## Contact
   
 ## Once I've used
 Frontend
-
-       
 Backend
-
-  
 Database
-
-  
 Server
-
-  
 Development Tools
-
-     
 Framework
-
-   
 Version Control
-
- 
 Communication
-
- 
