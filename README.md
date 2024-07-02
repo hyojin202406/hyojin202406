@@ -1,7 +1,7 @@
 <!--타이틀 부분-->
 
 <div align="center"> 
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:8871e5,100:b678c4&height=300&section=header&text==Welcome+to+Hyojin's+GitHub!%20render&fontSize=30" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:00704A,100:00B588&height=300&section=header&text=Welcome+to+Hyojin's+GitHub!&fontSize=30" />
 </div>
 
 <!--내용 부분-->
