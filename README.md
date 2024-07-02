@@ -1,7 +1,8 @@
 <!--타이틀 부분-->
 
-  ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Welcome+to+Hyojin's+GitHub!👋&fontSize=30)
-
+<div align="center"> 
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:8871e5,100:b678c4&height=300&section=header&text==Welcome+to+Hyojin's+GitHub!%20render&fontSize=30" />
+</div>
 
 <!--내용 부분-->
 <h3 align="center">Tech Stack </h3>
@@ -39,10 +40,9 @@
 
 <br>
 
-<p align="center"> 
+<div align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=hyojin202406&theme=vue&show_icons=true"/></a>
-</p>
-
+</div>
 
 ## Contact
 
