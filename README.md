@@ -39,8 +39,10 @@
 
 <br>
 
-
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyojin202406&show_icons=true&theme=ambient_gradient&fontSize=40)
+<div align=center>	
+  [![Anurag's GitHub stats]](https://github-readme-stats.vercel.app/api?username=hyojin202406&show_icons=true&theme=ambient_gradient&fo)
+</div>
+  
 
 
 ## Contact
