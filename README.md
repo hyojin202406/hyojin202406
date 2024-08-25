@@ -1,7 +1,9 @@
 <!--타이틀 부분-->
 
 <div align="center"> 
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:00704A,100:00B588&height=300&section=header&text=Welcome+to+Hyojin's+GitHub!&fontSize=40" />
+<!-- 
+    <img src="https://capsule-render.vercel.app/api?type=venom&color=0:00704A,100:00B588&height=300&section=header&text=Welcome+to+Hyojin's+GitHub!&fontSize=40" />
+  -->
 </div>
 
 <!--내용 부분-->
@@ -33,9 +35,13 @@
 
 <br>
 
+<!-- 
+
 <div align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=hyojin202406&theme=vue&show_icons=true"/></a>
 </div>
+
+-->
 
 ## Contact
 
