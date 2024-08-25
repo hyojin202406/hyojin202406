@@ -44,7 +44,8 @@ Here are some of my most notable projects:
 
 ## Connect with Me
 <!-- - [LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/) -->
+- [블로그](https://velog.io/@hj20220908/)
 - [Email](mailto:hyojin202406@gmail.com)
-- [Twitter](https://x.com/hj20220908)
+- [x](https://x.com/hj20220908)
 
 <br>
