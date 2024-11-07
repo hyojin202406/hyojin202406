@@ -2,8 +2,15 @@
 # Hello World!👋
 A developer who is growing every day!
 
-<!--내용 부분-->
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/hyojin202406"
+  width="600"
+  height="300"
+/>
+</a>
 
+<!--내용 부분-->
 ## Tech Stack
 <div>
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">&nbsp
