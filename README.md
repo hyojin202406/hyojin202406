@@ -2,16 +2,13 @@
 # Hello World!👋
 A developer who is growing every day!
 
-
 <a href="https://github.com/devxb/gitanimals">
   <img
     src="https://render.gitanimals.org/lines/hyojin202406?pet-id=642334041336422077"
     width="600"
-    height="120"
+    height="200"
   />
 </a>
-  
-  
 
 <!--내용 부분-->
 ## Tech Stack
