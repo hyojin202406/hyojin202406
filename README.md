@@ -3,13 +3,15 @@
 A developer who is growing every day!
 
 
+
 <a href="https://github.com/devxb/gitanimals">
-<img
-  src="https://render.gitanimals.org/farms/hyojin202406"
-  width="600"
-  height="300"
-/>
+  <img
+    src="https://render.gitanimals.org/lines/hyojin202406?pet-id=642282008843628246"
+    width="600"
+    height="120"
+  />
 </a>
+  
 
 <!--내용 부분-->
 ## Tech Stack
