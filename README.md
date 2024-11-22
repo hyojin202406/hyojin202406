@@ -1,6 +1,7 @@
 <!--타이틀 부분-->
 # Hello World!👋
-A developer who is growing every day!
+I am committed to embracing new challenges and continuously learning new technologies.<br/>
+and I value growing alongside my team and achieving better results together!
 <br/>
 
 <a href="https://velog.io/@hj20220908"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@hj20220908"/></a>
