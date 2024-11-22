@@ -1,7 +1,6 @@
 <!--타이틀 부분-->
 # Hello World!👋
-I am committed to embracing new challenges and continuously learning new technologies.<br/>
-and I value growing alongside my team and achieving better results together!
+I embrace new challenges, continuously learn, and grow with my team to achieve great results together!
 <br/>
 
 <a href="https://velog.io/@hj20220908"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@hj20220908"/></a>
