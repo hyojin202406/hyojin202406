@@ -1,13 +1,13 @@
 <!--타이틀 부분-->
 # Hello World!👋
 A developer who is growing every day!
- <a href="https://velog.io/@hj20220908">
-<img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@hj20220908"/>
+<br/>
+
+<a href="https://velog.io/@hj20220908">
+ <img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@hj20220908"/>
 </a>
-
-
- <a href="mailto:hyojin202406@gmail.com">
-   <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=hyojin202406@gmail.com"/>
+<a href="mailto:hyojin202406@gmail.com">
+ <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=hyojin202406@gmail.com"/>
 </a>
 <a href="https://github.com/devxb/gitanimals">
   <img
@@ -32,7 +32,7 @@ A developer who is growing every day!
 </div>
 
 
-<br>
+<br/>
 
 ## Studying
 <div>
@@ -41,7 +41,7 @@ A developer who is growing every day!
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
 </div>
-<br>
+<br/>
 
 <!-- 
 ## Projects
@@ -51,8 +51,8 @@ Here are some of my most notable projects:
 - **Project Name 3**: Brief description of what the project does and what technologies were used.
 
 -->
-<br>
+<br/>
 
 
 
-<br>
+<br/>
