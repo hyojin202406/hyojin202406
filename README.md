@@ -5,6 +5,8 @@ I embrace new challenges, continuously learn, and grow with my team to achieve g
 
 <a href="https://velog.io/@hj20220908"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@hj20220908"/></a>
 <a href="mailto:hyojin202406@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=hyojin202406@gmail.com"/></a>
+<a href="https://hhpluscertificateofcompletion.oopy.io/"><img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_black.svg" /></a>
+<br/>
 <a href="https://github.com/devxb/gitanimals">
   <img
     src="https://render.gitanimals.org/lines/hyojin202406?pet-id=642334041336422077"
